@@ -4,5 +4,5 @@
 
 * 1. * Try to code anything.
 * 2. * After modify your code, save them.
-* 3. * Commit changes is available as you saved the changes, try to **commit** now.
-* 4. * After committing changes, you may do the **pull request**.
+* 3. * Commit changes is available as you saved the changes, try to ***commit*** now.
+* 4. * After committing changes, you may do the ***pull request***.
